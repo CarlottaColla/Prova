@@ -1,0 +1,13 @@
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.exe
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.deps.json
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.runtimeconfig.json
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.runtimeconfig.dev.json
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.dll
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.pdb
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.csprojAssemblyReference.cache
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.AssemblyInfoInputs.cache
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.AssemblyInfo.cs
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.csproj.CoreCompileInputs.cache
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.dll
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.pdb
+C:\Users\carlotta.colla\Documents\Progetti\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.genruntimeconfig.cache
